@@ -1,4 +1,4 @@
-# WodeShengli-s-linux-package-manager-WLPM-
+# WodeShengli's linux package manager(WLPM)
 I haven't finished yet, but you can contribute code.
 WLPM:
 a easy make/or/install package tool.
